@@ -1,12 +1,22 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+![Header](./Github-header-image.png)
+
+
+
+## Hello there 👋
+I am Balázs. I am a Web Developer from Slovakia. I am currently doing my own project, however I am open to new challenges!
+
+Feel free to check out my <br>
+<a href="https://www.balazsburian.com">
+    <img src="https://img.shields.io/badge/Portfolio-Page-green" alt="Portfolio page link"/>
+  </a> 
+  
+or just text me on
+<div id="badges">
+  <a href="https://www.linkedin.com/in/balazs-burian/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+ 
 </div>
-
-## Hi there 👋
-
-Banner picture / gif
-
-
 
 <!--
 **4balage4/4balage4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,73 +33,71 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🧑🏻‍💻 About me
+Started my career as a professional online poker player later coach and manager. A decade later I got the idea to start something new and that is how I ended up doing Web development.
 
 
-My personal portfolio webpage
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/balazs-burian/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-[www.balazsburian.com](#)
+[](#)
 
 
-## 🚀 Main projects:
+## 🚀 Projects:
 ### [50-50 Share the mental load]()
   - -
   - -
   - -
-### My Le Wagon group project.
+### Project title 1
   - -
   - -
   - -
-### Ruby on Rails, Sql, Javascript, CSS, HTML, Heroku
-  - -
+### Project Title 2  - -
   - -
   - -
 
+<!--
 ____ not finished
 The Library
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black), ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white), ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ____Home Inventory
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black), ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white), ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white), AI, API, 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) AI API
 
+-->
 
 ##  🚧 Check out my small but fun projects 🥳💃🪩🕺
-  - [Spotify playlist editor](https://github.com/4balage4/spotifyApi) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black), SpotifyAPI, Oath. 
-  - [Quizzical](https://github.com/4balage4/quizzical-app-v1)  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black), API 
-  - [Tenzies game](https://github.com/4balage4/tenzies-game) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black), FIREBASE
+  - Create, Edit, Delete your Spotify playlists with the [Spotify playlist editor](https://github.com/4balage4/spotifyApi) desktop app ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) SpotifyAPI Oath 
+  - How good are you asnwering trivia questions? [Quizzical](https://github.com/4balage4/quizzical-app-v1)  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) API 
+  - Compete against others by matching the numbers in [Tenzies game](https://github.com/4balage4/tenzies-game) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) FIREBASE
 
-  - [Nike landing page](#) React, ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-  - [Bike Shop landing page](#) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)/Javascript, ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+  - [Nike landing page](https://github.com/4balage4/Nike-webpage) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
+  
+  <!--
+  - [Bike Shop landing page](#) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)/Javascript ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
   - [Vanlife](#) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-  - [Reddit client](#) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black), ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white), API
+  - [Reddit client](#) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) API
   - [AI](#) API
-
+  -->
 
 ## 🛠️ Languages & Tools
-https://shields.io/
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 
+<!--
 pending:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
@@ -105,7 +113,8 @@ https://simpleicons.org/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
 
-``
+
+-->
 
 
 ## 📊 Stats
