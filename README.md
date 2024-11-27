@@ -7,7 +7,7 @@ Started my career as a professional online poker player, poker coach and built a
 
 A decade later, after achieving so much, I found myself asking, 'What’s the next adventure🏔️?  And that’s how my journey in web development began. 
 
-Today, I focus my own projects, continuous learning. However I am always open for new challenges!
+Today, I focus on my own projects, continuous learning. However I am always open for new challenges!
 
 
 
@@ -42,14 +42,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🧑🏻‍💻 About me
-
-
-[](#)
 
 
 ## 🚀 Projects:
-### [50-50 Share the mental load]()
+<!--
+### 
   - -
   - -
   - -
@@ -57,9 +54,13 @@ Here are some ideas to get you started:
   - -
   - -
   - -
-### Project Title 2  - -
-  - -
-  - -
+  -->
+### [50-50 Share The Mental Load](https://github.com/4balage4/app_50-50) 
+  - Developed it with my peers during Le Wagon in Berlin. It was a fantastic to work in a team with Pauline, Linus, and Morgan   
+  - Application is designed to help distribute household tasks fairly and gender responsive by dividing up invisible work
+  - Planned, designed and carried out the project lifecycle
+  - Check out the 🎥[presentation](https://drive.google.com/file/d/1S-JH6O-6eUX-Mn7tx83Ug9HZ1qOqF1B5/view?t=304)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-F05032logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 <!--
 ____ not finished
@@ -94,6 +95,7 @@ ____Home Inventory
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+
 
 
 
