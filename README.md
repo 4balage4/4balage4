@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   - Application is designed to help distribute household tasks fairly and gender responsive by dividing up invisible work
   - Planned, designed and carried out the project lifecycle
   - Check out the 🎥[presentation](https://drive.google.com/file/d/1S-JH6O-6eUX-Mn7tx83Ug9HZ1qOqF1B5/view?t=304)
-  -  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-F05032logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) CSS ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+  -  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-F05032logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 <!--
 ____ not finished
@@ -72,9 +72,9 @@ ____Home Inventory
 
 -->
 
-##  🚧 Check out my small but fun projects 🥳💃🪩🕺
-  - Create, Edit, Delete your Spotify playlists with the [Spotify playlist editor](https://github.com/4balage4/spotifyApi) desktop app ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![SpotifyAPI](https://img.shields.io/badge/API-F05032logo=git&logoColor=white)  -needs to be fixed: ![Oath](https://img.shields.io/badge/Authentication-F05032logo=git&logoColor=white) CSS
-  - How good are you asnwering trivia questions? [Quizzical](https://github.com/4balage4/quizzical-app-v1)  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![API](https://img.shields.io/badge/API-F05032logo=git&logoColor=white) CSS
+##  🚧 Check out my small but fun projects!
+  - Create, Edit, Delete your Spotify playlists with the [Spotify playlist editor](https://github.com/4balage4/spotifyApi) desktop app ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![SpotifyAPI](https://img.shields.io/badge/API-F05032logo=git&logoColor=white)  -needs to be fixed: ![Oath](https://img.shields.io/badge/Authentication-F05032logo=git&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+  - How good are you asnwering trivia questions? [Quizzical](https://github.com/4balage4/quizzical-app-v1)  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![API](https://img.shields.io/badge/API-F05032logo=git&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
   - Compete against others by matching the numbers in [Tenzies game](https://github.com/4balage4/tenzies-game) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) CSS
   - [Nike landing page](https://github.com/4balage4/Nike-webpage) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) RESTAPI
   
