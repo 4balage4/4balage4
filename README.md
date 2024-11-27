@@ -1,9 +1,19 @@
 ![Header](./github-header-image.png)
 
 
+I'm a Web Developer from Slovakia, currently enjoying the life in Kenya, Nairobi. 🦓🦁🐘🐆🦏. 
 
-## Hello there 👋
-I am a Web Developer from Slovakia. I am currently doing my own project, however I am open for new challenges!
+Started my career as a professional online poker player, poker coach and built an online poker coaching business. 
+
+A decade later, after achieving so much, I found myself asking, 'What’s the next adventure🏔️?  And that’s how my journey in web development began. 
+
+Today, I focus my own projects, continuous learning. However I am always open for new challenges!
+
+
+
+
+
+
 
 Feel free to check out my <br>
 <a href="https://www.balazsburian.com">
@@ -33,8 +43,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🧑🏻‍💻 About me
-Started my career as a professional online poker player later coach and manager. A decade later I got the idea to start something new and that is how I ended up doing Web development. 
-
 
 
 [](#)
