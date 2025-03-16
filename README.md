@@ -3,9 +3,9 @@
 
 I'm a Web Developer from Slovakia, currently enjoying the life in Kenya, Nairobi. 🦓🦁🐘🐆🦏. 
 
-Started my career as a professional online poker player, poker coach and built an online poker coaching business. 
+I started my career as a professional online poker player, poker coach and built an online poker coaching business. 
 
-A decade later, after achieving so much, I found myself asking, 'What’s the next adventure🏔️?  And that’s how my journey in web development began. 
+A decade later, after achieving so much, I found myself asking, 'What’s the next adventure🏔️? And that’s how my journey in web development began. 
 
 Today, I focus on my own projects, continuous learning. However I am always open for new challenges!
 
@@ -57,9 +57,10 @@ ____Home Inventory
 ##  🚧 Check out my small but fun projects!
 
   - **[Spotify playlist editor](https://github.com/4balage4/spotifyApi)** - Create, Edit, Delete your Spotify playlists with the this app ---> ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![SpotifyAPI](https://img.shields.io/badge/API-F05032logo=git&logoColor=white) ![Oath](https://img.shields.io/badge/Authentication-F05032logo=git&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+  - **[Tenzies game](https://github.com/4balage4/tenzies-game)** - Compete against others by matching the numbers in  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+  - **[Nike landing page](https://github.com/4balage4/Nike-webpage)** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+  - **[Hacker News Clone](https://github.com/4balage4/hacker-news-clone)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
   - **[Quizzical](https://github.com/4balage4/quizzical-app-v1)** - How good are you in answering trivia questions?  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![API](https://img.shields.io/badge/API-F05032logo=git&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-  - **[Tenzies game](https://github.com/4balage4/tenzies-game)** - Compete against others by matching the numbers in  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) [CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-  - **[Nike landing page](https://github.com/4balage4/Nike-webpage)** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) RESTAPI
   
   <!--
   - [Bike Shop landing page](#) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)/Javascript ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
