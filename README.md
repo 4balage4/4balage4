@@ -26,11 +26,15 @@ or just connect on
 
 
 ## 🚀 Projects:
-<!--
-### 
-  - -
-  - -
-  - -
+
+###  [Vanlife](https://github.com/4balage4/vanlife/)
+  - Multiple pages with React Router v6
+  - Layout components and nested routes
+  - Search params and route params
+  - [Live Page](https://vanlife-ochre.vercel.app/)
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![React_Router_v6](https://img.shields.io/badge/React_Router-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+  <!--
 ### Project title 1
   - -
   - -
@@ -56,15 +60,15 @@ ____Home Inventory
 
 ##  🚧 Check out my small but fun projects!
 
-  - **[Spotify playlist editor](https://github.com/4balage4/spotifyApi)** - Create, Edit, Delete your Spotify playlists with the this app ---> ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![SpotifyAPI](https://img.shields.io/badge/API-F05032logo=git&logoColor=white) ![Oath](https://img.shields.io/badge/Authentication-F05032logo=git&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-  - **[Tenzies game](https://github.com/4balage4/tenzies-game)** - Compete against others by matching the numbers in  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-  - **[Nike landing page](https://github.com/4balage4/Nike-webpage)** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-  - **[Hacker News Clone](https://github.com/4balage4/hacker-news-clone)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  - **[Quizzical](https://github.com/4balage4/quizzical-app-v1)** - How good are you in answering trivia questions?  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![API](https://img.shields.io/badge/API-F05032logo=git&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+  - **[Spotify playlist editor](https://github.com/4balage4/spotifyApi)** -> Create, Edit, Delete your Spotify playlists with the this app ---> ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![SpotifyAPI](https://img.shields.io/badge/API-F05032logo=git&logoColor=white) ![Oath](https://img.shields.io/badge/Authentication-F05032logo=git&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+  - **[Tenzies game](https://github.com/4balage4/tenzies-game)** -> [Live page](https://tenzies-game-mu-three.vercel.app/) Compete against others by matching the numbers in  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+  - **[Nike landing page](https://github.com/4balage4/Nike-webpage)** -> [Live page](https://nike-webpage-nine.vercel.app/) Tailwind CSS exercise project ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+  - **[Hacker News Clone](https://github.com/4balage4/hacker-news-clone)** -> Replicates key features of the original site ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - **[Quizzical](https://github.com/4balage4/quizzical-app-v1)** -> [Live page](https://quizzical-app-v1.vercel.app/) How good are you in answering trivia questions?  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![API](https://img.shields.io/badge/API-F05032logo=git&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
   
   <!--
   - [Bike Shop landing page](#) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)/Javascript ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-  - [Vanlife](#) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+ 
   - [Reddit client](#) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![API](https://img.shields.io/badge/API-F05032logo=git&logoColor=white)
   - [AI](#) ![API](https://img.shields.io/badge/API-F05032logo=git&logoColor=white)
   -->
