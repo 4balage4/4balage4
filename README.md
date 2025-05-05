@@ -1,13 +1,13 @@
 ![Header](./github-header-image.png)
 
 
-I'm a Web Developer from Slovakia, currently enjoying the life in Kenya, Nairobi. 🦓🦁🐘🐆🦏. 
+I'm a Web Developer from Slovakia, currently enjoying life in Nairobi, Kenya. 🦓🦁🐘🐆🦏. 
 
-I started my career as a professional online poker player, poker coach and built an online poker coaching business. 
+I started my career as a professional online poker player, poker coach, and built an online poker coaching business. 
 
-A decade later, after achieving so much, I found myself asking, 'What’s the next adventure🏔️? And that’s how my journey in web development began. 
+A decade later, after achieving my goals, I asked, 'What’s the next adventure🏔️? And that’s how my journey in web development began. 
 
-Today, I focus on my own projects, continuous learning. However I am always open for new challenges!
+Today, I focus on my own projects and continuous learning. However, I am always open to new challenges!
 
 
 
@@ -16,7 +16,7 @@ Feel free to check out my <br>
     <img src="https://img.shields.io/badge/Portfolio-Page-green" alt="Portfolio page link"/>
   </a>
   
-or just connect on
+Or just connect on
 <div id="badges">
   <a href="https://www.linkedin.com/in/balazs-burian/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
