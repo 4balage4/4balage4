@@ -30,25 +30,32 @@ Or just connect on
 ## 🚀 Projects:
 
 ###  [Vanlife](https://github.com/4balage4/vanlife/)
-  - Multiple pages with React Router v6
-  - Layout components and nested routes
-  - Search params and route params
-  - [Live Page](https://vanlife-ochre.vercel.app/)
+- Multiple pages with React Router v6
+- Layout components and nested routes
+- Search params and route params
+- [Live Page](https://vanlife-ochre.vercel.app/)
+  
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![React_Router_v6](https://img.shields.io/badge/React_Router-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-  <!--
-### Project title 1
-  - -
-  - -
-  - -
-  -->
-### [50-50 Share The Mental Load](https://github.com/4balage4/app_50-50) 
-  - Developed it with my peers during Le Wagon in Berlin. It was a fantastic to work in a team with Pauline, Linus, and Morgan   
-  - Application is designed to help distribute household tasks fairly and gender responsive by dividing up invisible work
-  - Planned, designed and carried out the project lifecycle
-  - Check out the 🎥[presentation](https://drive.google.com/file/d/1S-JH6O-6eUX-Mn7tx83Ug9HZ1qOqF1B5/view?t=304)
 
-  -  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-F05032logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+###  [Picdit](https://github.com/4balage4/reddit-clone)
+- Created an application with the official Reddit API
+- Designed the layout, including loading placeholders and error handling
+- Implemented OAuth2, Created a backend server.
+- Used Redux for state management, React Router for routing.
+- [Live Page](https://reddit-clone-ecru-pi.vercel.app/all)
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![React_Router_v6](https://img.shields.io/badge/React_Router-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Oath2](https://img.shields.io/badge/Authentication-F05032logo=git&logoColor=white) ![render](https://img.shields.io/badge/render-000000?logo=render&logoColor=white)
+
+
+
+###  [50-50 Share The Mental Load](https://github.com/4balage4/app_50-50) 
+- Developed it with my peers during Le Wagon in Berlin. It was a fantastic to work in a team with Pauline, Linus, and Morgan   
+- Application is designed to help distribute household tasks fairly and gender responsive by dividing up invisible work
+- Planned, designed, and carried out the project lifecycle
+- Check out the 🎥[presentation](https://drive.google.com/file/d/1S-JH6O-6eUX-Mn7tx83Ug9HZ1qOqF1B5/view?t=304)
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-F05032logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 <!--
 ____ not finished
