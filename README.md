@@ -3,12 +3,6 @@
 
 I'm a Web Developer from Slovakia, currently enjoying life in Nairobi, Kenya. 🦓🦁🐘🐆🦏. 
 
-I started my career as a professional online poker player, poker coach, and built an online poker coaching business. 
-
-A decade later, after achieving my goals, I asked, 'What’s the next adventure🏔️? And that’s how my journey in web development began. 
-
-Today, I focus on my own projects and continuous learning. However, I am always open to new challenges!
-
 
 
 Feel free to check out my <br>
